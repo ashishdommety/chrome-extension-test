@@ -24,3 +24,4 @@ UI for the user to have options/set-configurations
 `Options.js`
 Logic for the extension functionality. Changes the storage api based on the user interactions.
 
+[Learn more](https://developer.chrome.com/extensions/overview) about the architecture. 
